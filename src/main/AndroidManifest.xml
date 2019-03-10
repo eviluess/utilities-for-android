@@ -4,8 +4,6 @@
     android:versionCode="20"
     android:versionName="2.0" >
 
-    <uses-sdk android:minSdkVersion="3" />
-
     <uses-permission android:name="android.permission.WRITE_SETTINGS" />
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
